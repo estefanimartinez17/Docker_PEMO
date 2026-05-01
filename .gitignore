@@ -1,0 +1,18 @@
+# Imágenes generadas
+*.jpg
+*.jpeg
+*.png
+*.ppm
+
+# Archivos compilados de C/C++
+*.o
+*.out
+*.exe
+
+# Carpetas de Python
+__pycache__/
+*.pyc
+
+# Archivos generados por el contenedor de criptografía
+*.key
+datos_cifrados.txt
